@@ -4,7 +4,7 @@
 
 --- [ ] Install NGINX to EC2 instance
 
- * [ ] Use Provisioners in BUILD block
+--- [ ] Use Provisioners in BUILD block
 
 [ ] Start instance
 

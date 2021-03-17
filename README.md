@@ -1,10 +1,14 @@
 # Installing NGINX to EC2 using Packer
 
-[ ] Create a template for packer build with NGINX
+[ ] Create a build template
 
-[ ] Launch EC2 with NGINX
+   [ ] Install NGINX to EC2 instance
 
-[ ] Load "Welcome to NGINX" message
+   [ ] Use Provisioners in BUILD block
+
+[ ] Start instance
+ 
+   [ ] Receive "Welcome to NGINX" message
 
 ## Questions, comments, concerns, etc.
 

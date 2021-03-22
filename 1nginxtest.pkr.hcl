@@ -16,7 +16,7 @@ variable "region" {
 # build blocks. A build block runs provisioners and post-processors on a
 # source.
 source "amazon-ebs" "firstrun" {
-  ami_name      = "packer-linux-aws-demo"
+  ami_name      = "packer-1nginx-test"
   instance_type = "t2.micro"
   region        = "${var.region}"
   source_ami_filter {

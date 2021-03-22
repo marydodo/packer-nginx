@@ -43,6 +43,6 @@ build {
     inline = ["ls -al /home/ubuntu", "cat /home/ubuntu/welcome.txt"]
   }
   provisioner "shell" {
-    script = "./example.sh"
+    script = "./setup.sh"
   }
 }

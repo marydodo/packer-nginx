@@ -1,4 +1,4 @@
-echo "W E L C O M E - BEEP BOOP BEEP!"
+echo " H E L L O  M A R Y"
 echo "Installing NGINX!"
-apt-get update
-apt-get -y install apache2
+sudo apt update
+sudo apt install nginx
